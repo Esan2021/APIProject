@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="99d1b011-1fb1-40c2-8956-399e2a0650b9" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="UpdatePayment" searchProperties="true" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="99d1b011-1fb1-40c2-8956-399e2a0650b9fileName">UpdatePayment</con:setting></con:settings><con:properties/><con:reportParameters/></con:testCase>

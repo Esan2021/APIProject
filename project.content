@@ -1,0 +1,15 @@
+https%3A%2F%2Fwww.test-insurance.com\gitUser.xml
+https%3A%2F%2Fwww.test-insurance.com\CreateUser.xml
+https%3A%2F%2Fwww.test-insurance.com\UpdateUser.xml
+https%3A%2F%2Fwww.test-insurance.com\DeleteUser.xml
+https%3A%2F%2Fwww.test-insurance.com\payment.xml
+https%3A%2F%2Fwww.test-insurance.com\secondary-user.xml
+Insruance-Test-Suite\CreateUser-Test-case.xml
+Insruance-Test-Suite\RemoveUser-Test-case.xml
+Insruance-Test-Suite\Add-Secondary-User.xml
+Insruance-Test-Suite\Add-Payment-to-existing-user.xml
+Insruance-Test-Suite\GetUser-by-ID.xml
+Insruance-Test-Suite\Create-Duplicate-User-Negative-Test-case.xml
+Insruance-Test-Suite\UpdateSecondaryUser.xml
+Insruance-Test-Suite\UpdatePayment.xml
+Insruance-Test-Suite\TestCase-9.xml
